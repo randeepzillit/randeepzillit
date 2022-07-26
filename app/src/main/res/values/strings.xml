@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Zillit Android</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="main_logo_text">A Communication Application,\n Accessed in 22 Languages.</string>
+
+
+
 </resources>
