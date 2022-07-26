@@ -3,7 +3,34 @@
     <string name="title_activity_splash">SplashActivity</string>
 
     <string name="main_logo_text">A Communication Application,\n Accessed in 22 Languages.</string>
+    <string name="title_activity_on_boarding_screen">OnBoardingScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="skip">Skip</string>
+
+
+    <!-- OnBoarding Texts   -->
+    <string name="mainOnBoardingHeading1">Secure and Private Network</string>
+    <string name="mainOnBoardingHeading2">Upload Multiple Images and Documents in Real Time</string>
+    <string name="mainOnBoardingHeading3">Create Multiple Units and Purchase Orders</string>
+    <string name="mainOnBoardingHeading4">Group Calling and Chat with SOS Calling</string>
+    <string name="mainOnBoardingHeading5">Create Events on Calendar</string>
+    <string name="subOnBoardingHeadingOfOne1">No personal information needed from any user other than one who creates the digital code for the project</string>
+    <string name="subOnBoardingHeadingOfOne2">Complete end to end encryption over secure SSL channels</string>
+    <string name="subOnBoardingHeadingOfTwo1">Documents, Location, Images, All communications in one secure place</string>
+    <string name="subOnBoardingHeadingOfTwo2">Use Web or Mobile to communicate for all features with Auto Sync between them</string>
+    <string name="subOnBoardingHeadingOfThree1">Create multiple units for personalized communication.</string>
+    <string name="subOnBoardingHeadingOfThree2">Simple interface to create purchase orders with multiple approval levels.</string>
+    <string name="subOnBoardingHeadingOfFour1">Secure chat interface with single and group chats with image file and location sharing</string>
+    <string name="subOnBoardingHeadingOfFour2">Single, Group Audio and Video calling interface with unlimited users and duration</string>
+    <string name="subOnBoardingHeadingOfFive1">Intuitive Calendar interface with multiple time zones designed for the film crews</string>
+    <string name="subOnBoardingHeadingOfFive2">Set Reminders for crew meetings, deadlines and countdowns.</string>
 
 
 </resources>
